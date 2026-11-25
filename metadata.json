@@ -1,0 +1,6 @@
+{
+  "name": "Maa Mobile Center — Hazaribagh",
+  "description": "Official business showcase for Maa Mobile Center, Hazaribagh, Jharkhand — multi-brand smartphones, pre-owned phones, accessories, and in-store customer assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
